@@ -19,7 +19,7 @@
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
- ![Snake animation](https://github.com/vitoria-isabela/vitoria-isabela/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/vitoria-isabela-2/vitoria-isabela-2/blob/output/github-contribution-grid-snake.svg)
  ##
  <div>
   "Do your best, in the condition you have, while you don't have better conditions, to do even better!" :dart:
